@@ -1,0 +1,12 @@
+albumentations==1.4.8
+albucore==0.0.16
+matplotlib==3.9.0
+numpy
+# opencv-python-headless==4.10.0.82
+scikit-image==0.23.2
+scikit-learn==1.5.0
+tensorflow==2.16.1
+torch==2.2.1
+torchsummary==1.5.1
+torchvision==0.17.1
+tqdm==4.66.5
