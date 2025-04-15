@@ -130,6 +130,17 @@ Pretrained models for different curriculum learning. All Tested on Kitti Dataset
 | Sigmoid | 0.405 | 18.02 |
 | Exponential | 0.614 | 21.79 |
 
-## References
+# Citation
+If you use the X-DECODE data or code please cite:
+```bash
+@article{xdecode2025,
+  title = {X-DECODE: EXtreme Deblurring with Curriculum Optimization and Domain Equalization},
+  author = {Gautam Sushant and Chen Jingdao},
+  journal = {ArXiv e-prints},
+  eprint = {2504.08072},
+  year = {2025},
+  url={https://arxiv.org/abs/2504.08072}
+}
 
-- [pix2pix-pytorch](https://github.com/mrzhu-cool/pix2pix-pytorch)
+
+```
